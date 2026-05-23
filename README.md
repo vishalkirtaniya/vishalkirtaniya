@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m a **Software Engineer I** with around **1.5 
 
 ## 📫 How to reach me
 - 📧 Email: vishalkirtaniyaofficial@gmail.com  
-- 🌐 Portfolio: https://vishalkirtaniya.netlify.app  
+- 🌐 Portfolio: https://www.vishalkirtaniya.in 
 - 💼 LinkedIn: https://www.linkedin.com/in/vishalkirtaniya  
 
 ---
